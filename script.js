@@ -57,7 +57,7 @@ let personne = {
 };
 console.log(personne.nom, personne.age, personne.ville);
 
-//9
+// Exercice 9
 document.addEventListener('DOMContentLoaded', function() {
     
     let newParagraph = document.createElement('p');
